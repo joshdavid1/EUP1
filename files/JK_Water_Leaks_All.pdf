@@ -1,0 +1,677 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+<HEAD>
+	<TITLE>JK_Water_Leaks_All.pdf (5 MB)</TITLE>
+	<META http-equiv="Content-Type" content="text/html; charset=windows-1250">
+	<META NAME="description" content="Jeep Wrangler, Manuály servisní, Anglicky, 5 MB, Oprávárenský manuál na zatékání do střechy JK 07">
+	<META NAME="keywords" content="Jeep,klub,ostatní,modely,Cherokee,CJ-10,CJ-2,CJ-3,CJ-5,CJ-6,CJ-7,CJ-8,(Scrambler),Comanche,MJ,Commander,Concept,Commando,COMPASS,Compass,II,Gladiator,Grand,Honcho,Hurricane,Icon,JEEPSTER,KirkWood,WJ,Liberty,Nukizer,715,Patriot,RENEGADE,Rescue,TJ,DAKAR,Trailhawk,TREO,VARSITY,Wagoneer,Willys,Wrangler,Lower,Forty">
+	<META name="keyword phrases" CONTENT=",Jeep Motory,CHAT On-Line,Jeep Modely,Jeep Tuning">
+	<META NAME="title" CONTENT="JK_Water_Leaks_All.pdf (5 MB)">
+	<META NAME="language" content="cs,sk">
+	<META http-equiv="Content-Language" content="cs,sk">
+			<META name="category" content="Automotive">
+		<META NAME="abstract" CONTENT="Mezinárodní Jeep klub.">
+	<META NAME="Revisit-after" CONTENT="2 days">
+	<META name="robots" content="index,follow">
+
+
+
+
+
+	
+	<!-- FB Open Graph meta -->
+	<meta property="og:title" content="JK_Water_Leaks_All.pdf (5 MB)">
+	<meta property="og:url" content="http://www.jeep-club.net/graphics/manuals/85/JK_Water_Leaks_All.pdf">
+	<meta property="og:image" content="http://www.jeep-club.net/graphics/gallery/icon/74_wrangler_unlimited-0052006.jpg">
+	<meta property="og:site_name" content="Jeep klub">
+	<meta property="og:description" content="Jeep Wrangler, Manuály servisní, Anglicky, 5 MB, Oprávárenský manuál na zatékání do střechy JK 07">
+	<meta property="og:type" content="website">
+
+				<meta property="fb:app_id" content="373599889329753">
+	
+
+
+
+	<META name="author" content="Pavel Niederle">
+	<META name="copyright" content="2014, Pavel Niederle, www.jeep-club.net, Jeep klub">
+	<META name="expires" content="never">
+	<META name="distribution" content="global">
+		<LINK rel="stylesheet" type="text/css" href="/css/mixed.css">
+	<LINK REL="SHORTCUT ICON" HREF="http://www.jeep-club.net/favicon.ico">
+
+
+			<SCRIPT async language="javascript" type="text/javascript" src="/js/common_js.js"></SCRIPT>
+	
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.js" type="text/javascript"></script>
+
+	
+
+
+
+	
+
+	
+	<META http-equiv="cache-control" content="no-cache">
+
+			<LINK rel="image_src" href="http://www.jeep-club.net/graphics/gallery/icon/74_wrangler_unlimited-0052006.jpg">
+	
+	
+
+
+
+	
+
+
+
+
+	
+
+
+			<!-- DFP -->
+		<script type='text/javascript'>
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + 
+			'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+			})();
+		</script>
+
+		<script type='text/javascript'>
+			googletag.cmd.push(function() {
+			//googletag.defineSlot('/3321646/main_300x250_top', [300, 250], 'div-gpt-ad-1396671455742-1').addService(googletag.pubads());
+			//googletag.defineSlot('/3321646/main_468x60', [468, 60], 'div-gpt-ad-1396725885234-0').addService(googletag.pubads());
+			//googletag.defineSlot('/3321646/main_336x280_bottom', [336, 280], 'div-gpt-ad-1396760290829-2').addService(googletag.pubads());
+
+			//googletag.defineSlot('/3321646/all_728x90_top', [728, 90], 'div-gpt-ad-1396671455742-0').addService(googletag.pubads());
+			//googletag.defineSlot('/3321646/all_728x90_bottom', [728, 90], 'div-gpt-ad-1396760825569-0').addService(googletag.pubads());
+
+			//googletag.defineSlot('/3321646/all_234x60_inside', [234, 60], 'div-gpt-ad-1396765026549-0').addService(googletag.pubads());
+			//googletag.defineSlot('/3321646/all_300x250_inside', [300, 250], 'div-gpt-ad-1396765026549-1').addService(googletag.pubads());
+			//googletag.defineSlot('/3321646/all_336x280_inside', [336, 280], 'div-gpt-ad-1396765026549-2').addService(googletag.pubads());
+
+			//googletag.defineSlot('/3321646/video_250x250_middle', [250, 250], 'div-gpt-ad-1396765026549-10').addService(googletag.pubads());
+
+
+
+			
+			
+			
+
+
+			
+			googletag.pubads().setTargeting("project", "25");
+			googletag.pubads().setTargeting("lang", "cze");
+			googletag.pubads().setTargeting("is_car", "yes");
+			googletag.pubads().setTargeting("is_moto", "no");
+			googletag.pubads().setTargeting("is_dating", "no");
+
+			//googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+			});
+		</script>
+
+
+
+				
+	
+</HEAD>
+<BODY
+	onLoad=""
+		id="thisPageBody"
+	bgColor="#ADADAD"
+	xbgColor="#7F7F7F"
+	xbgColor="#E9EAED"
+	style="margin-top: 0px;"
+	>
+
+<DIV id="obalovydiv">
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Analytics AdSense -->
+<script type="text/javascript">
+	window.google_analytics_uacct = "UA-12949050-20";
+</script>
+
+	
+						<SPAN style="font-size: 10px;">Jeep ostatní modely Cherokee CJ-10 CJ-2 CJ-3 CJ-5 CJ-6 CJ-7 CJ-8 (Scrambler) Comanche MJ Commander Concept Commando COMPASS Compass II Gladiator Grand Honcho Hurricane Icon JEEPSTER KirkWood WJ Liberty Nukizer 715 Patriot RENEGADE Rescue TJ DAKAR Trailhawk TREO VARSITY Wagoneer Willys Wrangler Lower Forty klub</SPAN>
+			
+
+<TABLE border="0" cellspacing="0" cellpadding="0">
+	<TR valign="top">
+		<TD valign="middle">
+			<TABLE width="110" border="0" cellspacing="0" cellpadding="0">
+				<TR vAlign="middle">
+					<TD width="50%" align="left">
+												<A class="toggleOpacity" title="Česky" href="http://www.jeep-club.net"><IMG width="25" height="16" style="filter: alpha(opacity=20); -moz-opacity: 0.20; opacity: 0.20;; background-color: #FFFFFF;" border="0" src="/graphics/navigation/lang/flag_cz_small.gif"></A>
+					</TD>
+					<TD align="center">
+												<A class="ToggleOpacity" style="background-color: #ADADAD;" href="http://www.jeep-club.net/zeme-staty"><IMG style="filter: alpha(opacity=50); -moz-opacity: 0.50; opacity: 0.50;" width="32" height="32" alt="Jeep ostatní modely Cherokee CJ-10 CJ-2 CJ-3 CJ-5 CJ-6 CJ-7 CJ-8 (Scrambler) Comanche MJ Commander Concept Commando COMPASS Compass II Gladiator Grand Honcho Hurricane Icon JEEPSTER KirkWood WJ Liberty Nukizer 715 Patriot RENEGADE Rescue TJ DAKAR Trailhawk TREO VARSITY Wagoneer Willys Wrangler Lower Forty klub" border="0" src="/graphics/icons/globe.png"></A>
+					</TD>
+					<TD width="50%" align="right">
+						<A class="toggleOpacity" title="English" href="http://en.jeep-club.net"><IMG width="25" height="16" style=" background-color: #FFFFFF;" border="0" src="/graphics/navigation/lang/flag_en_small.gif"></A>
+					</TD>
+				</TR>
+							</TABLE>
+		</TD>
+		<TD></TD>
+		<TD style="padding-left: 10px;">
+			<A title="Jeep klub" href="http://www.jeep-club.net/"><IMG alt="Jeep klub" width="470" height="45"  border="0" src="/graphics/navigation/main_title_007.png"></A>
+
+			<CENTER>			
+				<TABLE border="0" cellSpacing="0" cellPadding="0">
+					<TR>
+																			<TD style="padding-top: 7px; padding-bottom: 7px;">
+								<A class="a-button-big14" href="http://www.jeep-club.net/register.php">Registrace nového uživatele</A>
+							</TD>
+											</TR>
+				</TABLE>
+			</CENTER>			
+
+
+		</TD>
+		<TD><IMG width="9" height="1" src="/graphics/spacer.gif"></TD>
+		<TD style="padding-bottom: 6px;" align="center" width="280" nowrap valign="bottom">
+												<!-- google_ad_section_start(weight=ignore) -->
+						<FORM style="margin: 0px;" name="loginForm" action="http://www.jeep-club.net/login.php?url2go=http%3A%2F%2Fwww.jeep-club.net%2Fmanual_download.php%3Fid%3D85%26source%3Ddirect_download" method="post">
+							<INPUT name="hid_lang" type="hidden" value="">
+							<INPUT name="hid_url2go" type="hidden" value="http%3A%2F%2Fwww.jeep-club.net%2Fmanual_download.php%3Fid%3D85%26source%3Ddirect_download">
+							<INPUT name="hid_submit" type="hidden" value="1">
+							<TABLE width="100%" border="0" cellspacing="0" cellpadding="0">
+								<TR valign="middle">
+									<!--
+									<TD><A rel="nofollow" title="Bezpečné přihlášení přes SSL (https)" style="font-size: 10px;" href="https://www.jeep-club.net/graphics/manuals/85/JK_Water_Leaks_All.pdf"><IMG border="0" width="12" height="15" src="/graphics/icons/locked_12x15.gif"></A></TD>
+									-->
+									<TD><IMG width="10" height="1" src="/graphics/spacer.gif"></TD>
+									<TD style="font-size: 11px;">Login</TD>
+									<TD><IMG width="5" height="1" src="/graphics/spacer.gif"></TD>
+									<TD><INPUT name="sle_username" style="font-family: Verdana; font-size: 9px;" type="text" size="9" value=""></TD>
+									<TD><IMG width="10" height="1" src="/graphics/spacer.gif"></TD>
+									<TD style="font-size: 11px;">Heslo</TD>
+									<TD><IMG width="5" height="1" src="/graphics/spacer.gif"></TD>
+									<TD><INPUT name="sle_password" style="font-family: Verdana; font-size: 9px;" type="password" size="9"></TD>
+									<TD><IMG width="10" height="1" src="/graphics/spacer.gif"></TD>
+									<TD><INPUT type="submit" style="font-size: 10px;" class="form_button" value="&nbsp;&nbsp;OK&nbsp;&nbsp;"></TD>
+								</TR>
+							</TABLE>
+							<INPUT id="cbx_pernament_login" name="cbx_pernament_login" type="checkbox" value="1">&nbsp;<LABEL for="cbx_pernament_login"><SPAN style="font-size: 11px;">Trvalé přihášení (cookie)</SPAN></LABEL>
+						</FORM>
+					<!-- google_ad_section_end(weight=ignore) -->
+										<CENTER>
+				<FORM id="frm_search_global" name="frm_search_global" onSubmit="SubmitForm2(this);" style="margin: 0px;" action="http://www.jeep-club.net/search.php" method="get">
+					<TABLE border="0" cellspacing="0" cellpadding="0">
+						<TR>
+							<TD style="padding-left: 20px;">
+								<INPUT id="sle_gs_text" name="sle_gs_text" type="text" x-webkit-speech speech style="border: #000000 1px solid; " size="20" value="">
+							</TD>
+							<TD style="padding-left: 5px;">
+								<SELECT name="tab" style="">
+									<OPTION value=""></OPTION>
+<OPTGROUP label="Globální"><OPTION  value="users">Uživatelé</OPTION>
+<OPTION  value="user_images">Fotky</OPTION>
+<OPTION  value="events">Srazy</OPTION>
+<OPTION  value="msgboard">Fórum</OPTION>
+<OPTION  value="user_blog">Blog</OPTION>
+<OPTION  value="articles">Články</OPTION>
+<OPTION  value="advices">Poradna</OPTION>
+<OPTION  value="classifieds">Inzerce</OPTION>
+</OPTGROUP><OPTGROUP label="Fulltext"><OPTION  value="fulltext">Google</OPTION>
+</OPTGROUP><OPTGROUP label="Přímé"><OPTION  value="direct_events">Srazy</OPTION>
+<OPTION  value="direct_msgboard">Fórum</OPTION>
+<OPTION  value="direct_classifieds">Inzerce</OPTION>
+</OPTGROUP>								</SELECT>
+							</TD>
+							<TD style="padding-left: 5px;"><INPUT type="submit" class="form_button" value="Hledat"></TD>
+						</TR>
+					</TABLE>
+				</FORM>
+			</CENTER>
+		</TD>
+	</TR>
+</TABLE>
+
+					<SPAN style="padding-left: 10px;">
+			
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- 728x15, created 2/5/10 -->
+			<ins class="adsbygoogle"
+				style="display:inline-block;width:728px;height:15px"
+				data-ad-client="ca-pub-4356245028301838"
+				data-ad-slot="3908527178"
+				></ins>
+			<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		</SPAN>
+	
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0">
+	<TR valign="top">
+		<TD colspan="2">
+			<IMG width="1" height="8" src="/graphics/spacer.gif"><TABLE border="0" cellspacing="0" cellpadding="0">
+				<TR>
+					<TD bgColor="#AAAAAA"><IMG border="0" width="1" height="2" src="/graphics/spacer.gif"></TD>
+				</TR>
+
+
+
+				<TR>
+					<TD colSpan="2">
+						<UL id="MainMenuNav">
+							<LI><A  href="http://www.jeep-club.net/" ><SPAN style="font-weight: bold;">JEEP</SPAN></A></LI>
+							<LI><A  href="http://www.jeep-club.net/modely" ><SPAN style="font-family: Arial; font-weight: bold; font-size: 14px;">Modely</SPAN></A></LI>
+							<LI><A  href="http://www.jeep-club.net/inzerce" ><SPAN style="font-family: Arial; font-weight: bold; font-size: 14px;">Inzerce</SPAN></A></LI>
+							<LI><A  href="http://www.jeep-club.net/nase-vozidla" >Naše auta</A></LI>
+							<LI><A  href="http://www.jeep-club.net/servisni-knizky" >Servisní knížky</A></LI>
+							<LI><A  href="http://www.jeep-club.net/lide" ><IMG style="vertical-align: middle;" border="0" width="13" height="14" src="/graphics/icons/user_icon.gif"> Členové</A></LI>
+							<LI><A  href="http://www.jeep-club.net/clanky" ><IMG style="vertical-align: middle;" border="0" width="14" height="14" src="/graphics/navigation/newadvert.gif"> Články</A></LI>
+							<LI><A  href="http://www.jeep-club.net/forum" ><SPAN style="font-family: Arial; font-weight: bold; font-size: 14px;">Fórum</SPAN></A></LI>
+							<LI><A  href="http://www.jeep-club.net/chat" ><IMG style="vertical-align: middle;" border="0" width="12" height="13" src="/graphics/icons/msgboard/icon_mini_members.gif"> Chat</A></LI>
+							<LI><A  href="http://www.jeep-club.net/srazy" ><SPAN style="font-family: Arial; font-weight: bold; font-size: 14px;">Srazy</SPAN></A></LI>
+							<LI><A  href="http://www.jeep-club.net/videa" ><SPAN style="font-family: Arial; font-weight: bold; font-size: 14px;">Videa</SPAN></A></LI>
+							<LI><A  href="http://www.jeep-club.net/partneri" >Partneři</A></LI>
+							<LI><A  href="http://www.jeep-club.net/eshop-firmy" >E-Shop</A></LI>
+							<LI><A rel="nofollow"  href="http://www.jeep-club.net/hledani" ><IMG style="vertical-align: middle;" border="0" width="14" height="13" src="/graphics/icons/lupa4a.gif"> Hledání</A></LI>
+							<LI><A  href="http://www.jeep-club.net/poradna" ><SPAN style="font-weight: bold; font-size: 14px;">Poradna&nbsp;</SPAN></A></LI>
+							<LI><A rel="nofollow"  href="/m/" >Mobilní verze</A></LI>
+						</UL>
+					</TD>
+				</TR>
+
+			</TABLE>
+			<img height="5" width="1" border="0" src="/graphics/spacer.gif"><BR>
+
+
+	
+	
+			<BR>
+
+			<!-- google_ad_section_start(weight=ignore) -->
+				<CENTER>
+					<IMG src="/graphics/spacer.gif" border="0" width="1" height="4"><BR>
+
+											<IMG title="Jeep klub" alt="Jeep klub" SRC="http://www.toplist.cz/images/counter.asp?a=mc&ID=317574&start=0" border="0" width="88" height="60">					
+					<img onClick="f_toggleVisibility('div_stat_box');" width="88" height="10" style="background-color: #B0B0B0;" src="/graphics/spacer.gif">
+
+					
+					<BR>
+					<A href="http://www.jeep-club.net/rss"><IMG border="0" alt="RSS novinky" style="vertical-align: middle;" width="16" height="16" src="/graphics/icons/rss.gif"> RSS novinky</A><BR>
+				</CENTER>
+			<!-- google_ad_section_end(weight=ignore) -->
+
+
+
+
+
+			
+
+
+
+
+
+		</TD>
+		<TD></TD>
+		<TD colspan="2" width="100%" align="left">
+			<TABLE border="0" cellspacing="0" cellpadding="0">
+				<TR>
+					<TD><IMG border="0" src="/graphics/spacer.gif" width="1" height="8"></TD>
+				</TR>
+				<TR valign="top">
+					<TD><IMG border="0" src="/graphics/spacer.gif" width="10" height="1"></TD>
+					<TD width="728" align="left">
+
+						
+						
+
+
+
+	
+<H1 class="page_title">Stažení manuálu</H1>
+<BR>
+<BR>
+
+
+
+			<DIV style="float: left; margin-right: 30px; margin-bottom: 15px;">
+			
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- 300x250, created 12/9/10 -->
+			<ins class="adsbygoogle"
+				 style="display:inline-block;width:300px;height:250px"
+				 data-ad-client="ca-pub-4356245028301838"
+				 data-ad-slot="0592848393"></ins>
+			<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+
+					</DIV>
+	
+<H3 style="clear: none; margin-top: 0px;"><SPAN style="font-size: 18px; font-weight: bold; word-break: break-all;">JK_Water_Leaks_All.pdf</SPAN></H3>
+
+	<P><STRONG>Oprávárenský manuál na zatékání do střechy JK 07</STRONG></P>
+
+
+	<P>Kategorie: <A href="http://www.jeep-club.net/manuals.php?ddlb_category=11">Manuály servisní</A></P>
+
+	<P>
+		Jazyk: <A href="http://www.jeep-club.net/manuals.php?ddlb_language=2">Anglicky</A>
+
+		<A class="toggleOpacity" title="Česky" style="margin-left: 30px;" href="http://www.jeep-club.net/manual_download.php?id=85"><IMG width="25" height="16" style="vertical-align: middle; filter: alpha(opacity=20); -moz-opacity: 0.20; opacity: 0.20;; background-color: #FFFFFF;" border="0" src="/graphics/navigation/lang/flag_cz_small.gif"></A>
+		<A class="toggleOpacity" title="English" style="margin-left: 10px;" href="http://en.jeep-club.net/manual_download.php?id=85"><IMG width="25" height="16" style="vertical-align: middle; ; background-color: #FFFFFF;" border="0" src="/graphics/navigation/lang/flag_en_small.gif"></A>
+	</P>
+
+	<P>
+		Model:
+
+					<A href="http://www.jeep-club.net/model/jeep-wrangler-6#manualy">Jeep Wrangler</A>
+		
+					od 2007			</P>
+
+
+<P>
+	Velikost: <STRONG>5.3 MB</STRONG>
+
+			<SPAN style="margin-left: 30px;">144 stránek</SPAN>
+	</P>
+
+<P>
+			<A class="a-button" href="http://www.jeep-club.net/manual_download_act.php?id=85">Stáhnout</A>
+	</P>
+
+<P style="color: #7F7F7F;">
+	Staženo: 203x
+
+	</P>
+
+<P style="color: #7F7F7F;">
+	Nahráno: 2010-12-20 11:12:20	</P>
+
+
+
+
+
+
+
+<BR>
+
+<CENTER>
+	<TABLE border="0" cellspacing="0" cellpadding="0">
+		<TR>
+			<TD style="padding-right: 15px;">
+					<IFRAME
+		src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.jeep-club.net%2Fgraphics%2Fmanuals%2F85%2FJK_Water_Leaks_All.pdf&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;width=150&amp;action=like&amp;font=verdana&amp;colorscheme=light&amp;height=21"
+		scrolling="no"
+		frameborder="0"
+		style="border:none; overflow:hidden; width: 150px; height: 21px;"
+		allowTransparency="true"
+	>
+	</IFRAME>
+				</TD>
+			<TD>
+				<g:plusone size="medium" annotation="bubble" href=""></g:plusone>			</TD>
+			<TD>
+						<a data-url="" data-text="" href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+				</TD>
+		</TR>
+	</TABLE>
+</CENTER>
+
+	<TABLE style="clear: both;" border="0">
+		<TR vAlign="top">
+			<TD width="324">
+									<H3>Kdo tu vlastní Jeep Wrangler ? <SPAN style="color: #7F7F7F;">(90)</SPAN></H3>
+					<P><A class="a-button" href="http://www.jeep-club.net/owners.php?ddlb_model=6">Naše vozidla</A></P>
+				
+															<H3>Co jsme opravovali a jak ? <SPAN style="color: #7F7F7F;">(56)</SPAN></H3>
+						<P><A class="a-button" href="http://www.jeep-club.net/cars_journal.php?ddlb_model=6">Servisní záznamy</A></P>
+									
+									<H3>Vše o tomto modelu</H3>
+					<P><A class="a-button" href="http://www.jeep-club.net/model/jeep-wrangler-6">Jeep Wrangler</A></P>
+				
+							</TD>
+			<TD>
+				<H3>Problém s vozidlem ?</H3>
+				<P><A class="a-button" href="http://www.jeep-club.net/forum">Fórum</A></P>
+
+				<H3>Sháníš náhradní díly ?</H3>
+				<P><A class="a-button" href="http://www.jeep-club.net/inzerce">Inzerce</A></P>
+
+							</TD>
+		</TR>
+	</TABLE>
+
+
+
+
+
+
+
+<DIV style="clear: both;"></DIV>
+
+																					<BR>				<DIV>
+
+					
+													<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- 728x90_autokluby -->
+							<ins class="adsbygoogle"
+								 style="display:inline-block;width:728px;height:90px"
+								 data-ad-client="ca-pub-4356245028301838"
+								 data-ad-slot="4860643737"></ins>
+							<script>
+								(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						
+					
+				</DIV>
+			<BR>
+
+
+																
+
+													
+													<BR>
+															<!-- google_ad_section_start(weight=ignore) -->
+								<CENTER>
+									<SPAN style="color:#444444;">
+										Copyright &copy; 2001-2014 www.jeep-club.net, Jeep klub. Všechna práva vyhrazena.<BR>
+										<BR>
+										<A rel="nofollow" href="http://www.jeep-club.net/pravidla">Autorská práva & Pravidla</A>										&nbsp;|&nbsp; <A href="http://www.jeep-club.net/spoluprace">Spolupráce</A>
+										&nbsp;|&nbsp; <A href="http://www.jeep-club.net/reklama">Reklama</A>
+									</SPAN>
+								</CENTER>
+								<!-- google_ad_section_end(weight=ignore) -->
+														<BR>
+					</TD>
+											<TD><IMG width="10" height="1" src="/graphics/spacer.gif"></TD>
+						<TD>
+<!-- google_ad_section_start(weight=ignore) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<CENTER>
+		
+		<A class="toggleOpacity" title="Auto moto klub" href="http://www.auto-moto-klub.cz"><IMG border="0" width="75" height="49" style="background-color: #FFFFFF; border: #FFFFFF 3px solid;" src="http://www.auto-moto-klub.cz/graphics/logo/auto-moto-klub-75x49-cs.png"></A><BR>
+
+			</CENTER>
+	<BR>
+
+
+
+
+
+
+
+
+			<CENTER>
+				<A target="_blank" href="http://www.odvoz-odpadu.cz"><!--<img src="/graphics/banner/odvoz-odpadu-praha.png"><BR>-->Odvoz odpadů<BR>Praha</A><BR>
+		</CENTER>
+	
+<!-- google_ad_section_end(weight=ignore) -->
+
+
+
+</TD>
+									</TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+
+<BR>
+
+
+	
+
+
+
+
+	<TABLE border="0" cellSpacing="0" cellPadding="0">
+		<TR>
+			<TD><IMG width="120" height="1" src="/graphics/spacer.gif"></TD>
+			<TD>
+				<!-- google_ad_section_start(weight=ignore) -->
+					<CENTER>
+						<DIV id="div_stat_box" style="position: absolute; visibility: hidden;">
+							<SPAN style="font-size: 12px;">0.02s,   8x SQL (0.0118s ~ 54% &amp; <SPAN style="color: #7F0000;">81</SPAN> f.) ... 2.75 MB</SPAN><BR>
+							<BR>
+							<SPAN style="font-family: Verdana; font-size: 10px;">Vaše IP adresa: 76.22.19.29</SPAN><BR>
+													</DIV>
+					</CENTER>
+
+					
+
+					
+
+
+
+
+
+
+
+
+				<!-- google_ad_section_end(weight=ignore) -->
+
+
+
+
+
+
+
+				
+
+
+				
+					
+
+
+							</TD>
+		</TR>
+	</TABLE>
+
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-12949050-20', 'auto');
+	ga('send', 'pageview');
+
+	ga('create', 'UA-36553146-1', 'auto', {'name': 'imperiumTracker'});
+	ga('imperiumTracker.send', 'pageview');
+</script>
+
+	
+
+
+
+
+<script language="JavaScript">
+<!--
+document.write ('<img style="visibility:hidden;" src="http://toplist.cz/dot.asp?id=317574&http='+escape(document.referrer)+'&wi='+escape(window.screen.width)+'&he='+escape(window.screen.height)+'&cd='+escape(window.screen.colorDepth)+'&t='+escape(document.title)+'" width=0 height=0 border=0>'); 
+//-->
+</script>
+<NOSCRIPT><img style="visibility:hidden;" width="0" height="0" border="0" src="http://www.toplist.cz/dot.asp?id=317574"></NOSCRIPT>
+
+<script language="JavaScript">
+<!--
+document.write ('<img style="visibility:hidden;" src="http://toplist.cz/dot.asp?id=957884&http='+escape(document.referrer)+'&wi='+escape(window.screen.width)+'&he='+escape(window.screen.height)+'&cd='+escape(window.screen.colorDepth)+'&t='+escape(document.title)+'" width=0 height=0 border=0>'); 
+//-->
+</script>
+<NOSCRIPT><img style="visibility:hidden;" width="0" height="0" border="0" src="http://www.toplist.cz/dot.asp?id=957884"></NOSCRIPT>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js?onload=onLoadCallback';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+
+
+<!-- obalovydiv -->
+</DIV>
+
+
+
+
+
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 1056887234;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+	<noscript>
+		<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1056887234/?value=0&amp;guid=ON&amp;script=0"/>
+		</div>
+	</noscript>
+
+
+</BODY>
+</HTML>
